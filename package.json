@@ -1,0 +1,24 @@
+{
+  "name": "reserve-a-table",
+  "version": "1.0.0",
+  "description": "reserve a table at a restaurant",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bferriman/reserve-a-table.git"
+  },
+  "author": "Ben Ferriman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bferriman/reserve-a-table/issues"
+  },
+  "homepage": "https://github.com/bferriman/reserve-a-table#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
